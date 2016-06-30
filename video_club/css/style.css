@@ -1,0 +1,112 @@
+body{
+	
+	text-align: center;
+	background:#cccccc;
+}
+
+header{
+	margin : auto;
+	width: 90%;
+	margin-bottom: 20px;
+	height: 50px;
+	background : #2F4F4F;
+}
+
+nav{
+	margin: auto;
+	width: 90%;
+	margin-bottom: 20px;
+	height: 50px;
+	background: #2e64fe;
+}
+
+aside {
+	margin-left: 5%;
+	display: inline-block;
+	margin-bottom:20px;
+	width:30%;
+	height: 220px;
+	background : #b9b992;
+	float: left;
+
+}
+article{
+
+	margin: auto;
+	width: 90%;
+	height: 150px;
+	background: #9c9c63;
+
+}
+section{
+	margin-left: 26px;
+	display:inline-block;
+	margin-bottom:20px;
+	padding-top:20px;
+	width: 58%;
+	height: 200px;
+	background: transparent;
+	float: left;
+	
+}
+footer{
+	
+	margin:auto;
+	width:90%;
+	height:60px;
+	background: #2F4F4F;
+	float: left;
+	margin: 0 0 10px 66px;
+
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+#p1{
+	 font: oblique 120% sans-serif bold;
+	
+}
+
+footer{
+
+	font-size: 70%;
+}
+
+#yo{
+	padding-top: 20px;
+}
+
+#video{
+	margin-left: 250px;
+}
+#audio{
+	margin-left: 250px;
+}
+#audio2{
+	height: 100px;
+}
+#youtube{
+	margin-left: 250px;
+}
